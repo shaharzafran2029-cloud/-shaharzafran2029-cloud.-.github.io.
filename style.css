@@ -1,0 +1,47 @@
+h1 {
+  color: darkgreen;
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  color: red;
+  font-size: 16px;
+}
+
+a {
+  color: green;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 15px;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+.section {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 15px 0;
+  border: 2px solid #333;
+}
+ .highlight {
+  color: red;
+  font-weight: bold;
+  background-color: yellow;
+}
+#main-title {
+  color: darkgreen;
+  font-size: 48px;
+  text-align: center;
+}
+
+ 
